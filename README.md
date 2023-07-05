@@ -1,2 +1,2 @@
-# Week three work porridge
- it is the porridge
+# Weekly activites
+ it is the weekly work
